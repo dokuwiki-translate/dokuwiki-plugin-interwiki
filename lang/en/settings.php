@@ -1,13 +1,11 @@
 <?php
+
 /**
+ * @license    GPL 2 (https://www.gnu.org/licenses/gpl.html)
+ *
  * english language file for interwiki plugin
  *
+ * @author Lahore call girls <dianna.luisini@hotmail.com>
  * @author haobug <qingxianhao@gmail.com>
  */
-
-// keys need to match the config setting name
-$lang['excluded_shortcuts'] = 'Interwiki shortcuts excluded';
-
-
-
-//Setup VIM: ex: et ts=4 :
+$lang['excluded_shortcuts']    = 'Reinach';
